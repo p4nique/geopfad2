@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GEOpfad: Die App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="impressum_title">Impressum:</string>
+    <string name="impressum_names"> gfsaDas Programmierteam besteht aus folgenden Personen: \nNico Büscher, \nJendrik Kühn, \nAdam-Mahmoud Magdiche, \nAngelika Stalitza, \nPatrick Tyll und\nMarvin Wild.</string>
+    <string name="data_security_title">Datenschutz:</string>
+    <string name="data_security">Die App speichert keine personenbezogenen Daten. Die in der App benutzten Standortinformationen werden nicht gespeichert oder in einer sonstigen Form verwendet und lassen sich nur auf Ihrem Gerät darstellen.</string>
+    <string name="version">Version 0.1</string>
+    <string name="team">FHDW, BFWIS412A - Team 2</string>
+    
+
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>
